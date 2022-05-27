@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="YVACsuFIoB}LC*sSnVO:" x="1135" y="0"><statement name="HANDLER"><block type="device_show_leds" id="HOIAc+@=%h#SymSAM!eZ"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="e9a?iEM2jb/?sI/6FAJ["><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="[Mfr^E?DoP#K.8?{+xxF"><value name="text"><shadow type="text" id="u`g[Jncs;dv%VMt9_6ej"><field name="TEXT">Technology</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="e+9Pi(@U=(FjUwX{-[S|" x="1457" y="102"><statement name="HANDLER"><block type="playMelody" id="l|hB!;X;KZ;F=|(?e$g%"><value name="melody"><shadow type="melody_editor" id="Qbw^UZF.Y*Y885HK842M"><field name="melody">"C D E F E D C G "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="@mG,2Wcs/wg##N#[CxyZ"><mutation min="40" max="500" label="Number" precision="0"/><field name="SLIDER">90</field></shadow></value></block></statement></block></xml>
